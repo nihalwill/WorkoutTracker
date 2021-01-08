@@ -8,3 +8,6 @@ Folders Made
 Initial info for server html routes and index js files
 Initial connection with Mongo Atlas and Heroku
 Server code for Mongoose updated
+
+------------Second Commit
+Workout JS file written
