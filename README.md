@@ -12,3 +12,7 @@ Server code for Mongoose updated
 ------------Second Commit
 Workout JS file written
 Heroku link test
+
+------------Third Commit
+Working app with routes
+Changed CSS on html pages so buttons are easier to read
